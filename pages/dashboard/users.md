@@ -8,7 +8,7 @@ Um usuário é qualquer pessoa que realiza o login na Dashboard Service.
 Você pode convidar usuários para o Cypress através da [Dashboard Service](https://dashboard.cypress.io/). Os usuários 
 convidados podem acompanhar todos os projetos e testes executados da organização.
 
-### Convide usuários para uma organização: 
+### Convide usuários para uma organização
 
 1. Acesse a página [Organizações](https://dashboard.cypress.io/organizations) para selecionar a organização para a qual 
 deseja convidar o usuário
@@ -24,7 +24,7 @@ Observação: Apenas proprietários podem conceder acesso de 'proprietário' par
 
 ![invite-user-dialog](https://docs.cypress.io/_nuxt/img/invite-user-dialog.3df632b.png)
 
-### Cadastre-se com um convite:
+### Cadastre-se com um convite
 
 Ao receber o e-mail, clique em **"Aceitar convite"** para ser redirecionado ao Cypress Dashboard. Logo após, você irá 
 escolher o tipo de autenticação
@@ -33,14 +33,14 @@ escolher o tipo de autenticação
 - **Social** (E-mail e senha)
 - **Login único**
 
-#### Cadastro com autenticação básica:
+#### Cadastro com autenticação básica
 
 1. Clique em **"Não tem uma conta? Cadastre-se"**
 2. Clique em **"Cadastre-se com e-mail"**
 3. Informe o **e-mail** e crie uma **senha**
 4. Clique em **"Cadastre-se"**
 
-### Cadastro com autenticação social':'
+### Cadastro com autenticação social
 
 1. Clique em **"Não tem uma conta? Cadastre-se"**
 2. Clique em **"Cadastre-se com o Google"** ou **"Cadastre-se com o Google"**
